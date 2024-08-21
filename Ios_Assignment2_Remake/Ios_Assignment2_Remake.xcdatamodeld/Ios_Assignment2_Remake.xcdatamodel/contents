@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="21513" systemVersion="22E252" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="FavouritePlayers" representedClassName="FavouritePlayers" syncable="YES">
+        <attribute name="age" optional="YES" attributeType="String"/>
+        <attribute name="playername" optional="YES" attributeType="String"/>
+        <attribute name="teamname" optional="YES" attributeType="String"/>
+    </entity>
+    <entity name="PlayerEntity" representedClassName="PlayerEntity" syncable="YES">
+        <attribute name="age" optional="YES" attributeType="String"/>
+        <attribute name="hasfavourited" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="img" optional="YES" attributeType="String"/>
+        <attribute name="img2" optional="YES" attributeType="String"/>
+        <attribute name="info" optional="YES" attributeType="String"/>
+        <attribute name="insta" optional="YES" attributeType="String"/>
+        <attribute name="internationaldebut" optional="YES" attributeType="String"/>
+        <attribute name="name" optional="YES" attributeType="String"/>
+        <attribute name="playingstyle" optional="YES" attributeType="String"/>
+        <attribute name="style" optional="YES" attributeType="String"/>
+        <attribute name="twitter" optional="YES" attributeType="String"/>
+        <attribute name="web" optional="YES" attributeType="String"/>
+    </entity>
+    <entity name="Team" representedClassName="Team" syncable="YES">
+        <attribute name="image" optional="YES" attributeType="String"/>
+        <attribute name="teamname" optional="YES" attributeType="String"/>
+        <attribute name="year" optional="YES" attributeType="String"/>
+    </entity>
+</model>

@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<players>
+    <player>
+        <name>Rohit Sharma</name>
+        <age>35 years</age>
+        <playingstyle>Batsman</playingstyle>
+        <img>rohit</img>
+        <img2>rohit1.jpeg</img2>
+        <insta>https://www.instagram.com/rohitsharma45/</insta>
+        <twitter>https://twitter.com/ImRo45</twitter>
+        <internationaldebut>23 June 2007</internationaldebut>
+        <style>Right Hand Bat /
+            Right Arm Offbreak</style>
+        
+        <info>  .Rohit Gurunath Sharma (born 30 April 1987) is an Indian international cricketer and the current captain of the Indian cricket team. He plays as a right-handed opening batter for the Indian national cricket team and also for the IPL-side Mumbai Indians. Considered as one of the most outstanding white-ball batsmen of all time, Sharma currently holds the world record for the highest individual score (264) in a One Day International (ODI) match and is the only player to have scored three double-centuries in ODIs and also holds the record for scoring most hundreds (five) in a single Cricket World Cup, for which he won the ICC Men's ODI Cricketer of the Year award in 2019.
+            .Sharma has received two national honours, the Arjuna Award in 2015 and the prestigious Major Dhyan Chand Khel Ratna in 2020.</info>
+    <web>https://en.wikipedia.org/wiki/Rohit_Sharma</web>
+    
+    </player>
+    <player>
+        <name>KL Rahul</name>
+        <age>30 years</age>
+        <playingstyle>Batsman</playingstyle>
+        <img>klrahul</img>
+        <img2>klrahul1.jpeg</img2>
+        <insta>https://www.instagram.com/klrahul/</insta>
+        <twitter>https://twitter.com/klrahul</twitter>
+        <internationaldebut>June 11, 2016</internationaldebut>
+        <style>Right Hand Bat /
+WicketKeeper</style>
+        
+        <info>  .Kannanur Lokesh Rahul (born 18 April 1992) is an Indian international cricketer who currently is the vice-captain of the Indian cricket team in all formats. He is a Right-handed batter and wicketkeeper. He plays for Karnataka in domestic cricket and captains Lucknow Super Giants in the Indian Premier League.He did international debut in 2014 and scored his maiden Test century in his second Test match.
+        .He was the first Indian to score a century on men's One Day International debut,and the third Indian cricketer to score a century in all three formats of international cricket.
+        .In January 2022, he debuted as captain of Indian test team as a standing captain</info>
+        <web>https://en.wikipedia.org/wiki/KL_Rahul</web>
+    </player>
+    <player>
+        <name>Virat Kohli</name>
+        <playingstyle>Batsman</playingstyle>
+        <age>34 years</age>
+        <img>virat</img>
+        <img2>virat1.jpeg</img2>
+        <insta>https://www.instagram.com/virat.kohli/</insta>
+        <twitter>https://twitter.com/imVkohli</twitter>
+        <internationaldebut>18 August 2008</internationaldebut>
+        <style>Right Hand Bat /
+Right Arm Medium</style>
+        
+        <info>  .Virat Kohli born 5 November 1988) is an Indian international cricketer and former captain of the India national cricket team. He plays for Delhi in domestic cricket and Royal Challengers Bangalore in the Indian Premier League as a right-handed batsman.Kohli made his Test debut in 2011. He reached the number one spot in the ICC rankings for ODI batsmen for the first time in 2013. He has won Man of the Tournament twice at the ICC World Twenty20 (in 2014 and 2016). He also holds the world record of being the fastest to score 23,000 international career runs. He also is the leading run scorer of all time in T20s, as well as the current leading run scorer in T20 World Cups.</info>
+        <web>https://en.wikipedia.org/wiki/Virat_Kohli</web>
+    </player>
+    <player>
+        <name>SuryaKumar Yadav</name>
+        <age>32 years</age>
+        <playingstyle>Batsman</playingstyle>
+        <img>suryakumar</img>
+        <img2>suryakumar1.jpeg</img2>
+        <insta>https://www.instagram.com/surya_14kumar/</insta>
+        <twitter>https://twitter.com/surya_14kumar</twitter>
+        <internationaldebut>18 July 2021</internationaldebut>
+        <style>Righ Hand Bat /
+Right Arm Medium</style>
+        
+        <info>.Suryakumar Ashok Yadav (born 14 September 1990) is an international cricketer who plays for the Indian cricket team in the limited overs format. He plays for the Mumbai cricket team and for Mumbai Indians in the Indian domestic circuit. As of 1st November 2022, Suryakumar Yadav is ranked as the number one batsman in the world in T20I.
+            .He is one of the senior and regular member of Mumbai Ranji team. He was a captain of Mumbai cricket team for brief period of time in Ranji trophy. Amid 2014 2015 Ranji Trophy season Mumbai Cricket Association (MCA) removed him from captaincy and dropped from the team in 2018-19 season.</info>
+        <web>https://en.wikipedia.org/wiki/Suryakumar_Yadav</web>
+    </player>
+    <player>
+        <name>Dinesh Karthik</name>
+        <age>37 years</age>
+        <playingstyle>Batsman</playingstyle>
+        <img>dk</img>
+        <img2>dk1.jpg</img2>
+        <insta>https://www.instagram.com/dk00019/</insta>
+        <twitter>https://twitter.com/DineshKarthik</twitter>
+        <internationaldebut>September 5, 2004</internationaldebut>
+        <style>Right Arm Bat /
+Right Arm Offbreak</style>
+        
+        <info>.Krishnakumar Dinesh Karthik (born 1 June 1985) is an Indian professional cricketer and Commentator who nationally plays for the Indian Cricket Team and currently in Indian Premier League playing for Royal Challengers Bangalore. He is also the current captain of the Tamil Nadu cricket team in domestic cricket. He made his debut for the Indian cricket team in 2004. Karthik has become the 4th Indian batsman to play 300 T20 matches.
+            .He made his maiden Test century against Bangladesh and was India's leading scorer in their Test tour of England, helping India win their first series in England in 21 years. After a drop in form in September 2007, Karthik was dropped from the Test team. He has made only sporadic international appearances since then, although he continues to score well domestically.</info>
+        <web>https://en.wikipedia.org/wiki/Dinesh_Karthik</web>
+    </player>
+    <player>
+        <name>Rishabh Pant</name>
+        <age>25 years</age>
+        <playingstyle>Batsman</playingstyle>
+        <img>pant</img>
+        <img2>pant1.jpeg</img2>
+        <insta>https://www.instagram.com/rishabpant/</insta>
+        <twitter>https://twitter.com/RishabhPant17</twitter>
+        <internationaldebut>18 August 2018</internationaldebut>
+        <style>Left Hand Bat /
+WicketKeeper</style>
+        
+        <info>Rishabh Rajendra Pant (born 4 October 1997), is an Indian international cricketer who plays for the Indian cricket team as a wicket-keeper batter. Having played all formats for India, he is best known for his consistency to score runs in Test cricket. Pant plays for Delhi in domestic cricket and captains Delhi Capitals in the Indian Premier League.[3] He was the vice-captain of the India U-19 team for the 2016 Under-19 Cricket World Cup.
+            .He made his Twenty20 International (T20I) debut for India in January 2017, his Test debut in August 2018, and his One Day International (ODI) debut in October 2018. In January 2019, Pant was named the ICC Men's Emerging Cricketer of the Year at the 2018 ICC Awards.</info>
+        <web>https://en.wikipedia.org/wiki/Rishabh_Pant</web>
+    </player>
+    <player>
+        <name>Deepak Hooda</name>
+        <age>27 years</age>
+        <playingstyle>All-Rounder</playingstyle>
+        <img>hooda</img>
+        <img2>hooda1.jpeg</img2>
+        <insta>https://www.instagram.com/deepakhooda30/</insta>
+        <twitter>https://twitter.com/HoodaOnFire</twitter>
+        <internationaldebut>6 February 2022</internationaldebut>
+        <style>Right Hand Bat /
+Right Arm Offbreak</style>
+        
+        <info>Deepak Jagbir Hooda (born 19 April 1995) is an Indian International cricketer who plays for the Indian cricket team. He plays for Lucknow Super Giants in the Indian Premier League and Rajasthan in the domestic cricket. He is an all-rounder who bats right-handed and bowls right-arm off break. He made his international debut for India in February 2022.
+            .In January 2022, Hooda was named in India's One Day International (ODI) squad for their home series against the West Indies. He made his ODI debut against the West Indies in the first ODI of the same series.</info>
+        <web>https://en.wikipedia.org/wiki/Deepak_Hooda</web>
+    </player>
+    <player>
+        <name>Hardik Pandya</name>
+        <age>29 years</age>
+        <playingstyle>All-Rounder</playingstyle>
+        <img>hardik</img>
+        <img2>hardik1.jpg</img2>
+        <insta>https://www.instagram.com/hardikpandya93/</insta>
+        <twitter>https://twitter.com/hardikpandya7/</twitter>
+        <internationaldebut>16 October 2016</internationaldebut>
+        <style>Right Hand Bat /
+Right Arm Medium Fast</style>
+        
+        <info>Hardik Himanshu Pandya (born 11 October 1993) is an Indian international cricketer who plays for the Indian cricket team in ODI and T20I format as an All-rounder. Pandya also captained India for 3 matches in the absence of senior players. Pandya bats right-handed and bowls right-arm fast-medium. He has played in all 3 formats for India. He also plays for Baroda cricket team in domestic cricket and captains the newly debuted franchise Gujarat Titans in the Indian Premier League (IPL) and led them to their maiden IPL title in the 2022 edition. His elder brother Krunal Pandya is also a cricketer.</info>
+        <web>https://en.wikipedia.org/wiki/Hardik_Pandya</web>
+    </player>
+    
+    <player>
+        <name>Ravichandran Ashwin</name>
+        <age>36 years</age>
+        <playingstyle>Bowler</playingstyle>
+        <img>ashwin</img>
+        <img2>ashwin1.jpg</img2>
+        <insta>https://www.instagram.com/rashwin99/</insta>
+        <twitter>https://twitter.com/ashwinravi99/</twitter>
+        <internationaldebut>5 June 2010</internationaldebut>
+        <style>Right Hand Bat /
+Right Hand Offbreak</style>
+        
+        <info>.Ravichandran Ashwin  (born 17 September 1986) is an Indian international cricketer who plays for the Indian cricket team as a bowling All-rounder who bats right-handed and bowls right-arm off-break, he plays for Tamil Nadu in domestic cricket and Rajasthan Royals in the Indian Premier League. He is the fastest Indian bowler (also in some records the joint-fastest in the world) to reach the 50-, 100-, 150-, 200-, 250-, 300-, 350- and 400-wicket mark in Test cricket in terms of number of innings. In 2016, he became the third Indian to win the ICC Cricketer of the Year award. Considered to be one of the Greatest spin bowlers of his generation, he is currently the highest-ranked spinner in Test cricket, and the highest-ranked Test bowler for India on the ICC Player Rankings. He has won nine Man of the Series awards in Test cricket, which is the highest by an Indian cricketer. He mostly bats at 9 as a finisher in limited-overs format and a late middle order batsman in Test cricket. He has 5 test centuries with a highest score of 124.</info>
+        <web>https://en.wikipedia.org/wiki/Ravichandran_Ashwin</web>
+    </player>
+    <player>
+        <name>Yuzvendra Chahal</name>
+        <age>32 years</age>
+        <playingstyle>Bowler</playingstyle>
+        <img>chahal</img>
+        <img2>chahal1.jpg</img2>
+        <insta>https://www.instagram.com/yuzi_chahal23/</insta>
+        <twitter>https://twitter.com/yuzi_chahal/</twitter>
+        <internationaldebut>11 June 2016</internationaldebut>
+        <style>Right Hand Bat /
+Leg Break Googly</style>
+        
+        <info>Yuzvendra Chahal (born 23 July 1990) is an Indian international cricketer who plays for the Indian cricket team in white ball cricket as a leg spin bowler. He plays for Haryana in domestic cricket and Rajasthan Royals in the Indian Premier League. He is a Right-arm leg break bowler. Chahal was the second player and first Indian to take a 6 wicket haul in T20I history.[2] He was the first concussion substitute to be named man of the match in an international cricket match. He is a former chess player and represented India internationally in chess.</info>
+        <web>https://en.wikipedia.org/wiki/Yuzvendra_Chahal</web>
+    </player>
+    <player>
+        <name>Jasprit Bumrah</name>
+        <age>29 years</age>
+        <playingstyle>Bowler</playingstyle>
+        <img>bumrah.jpeg</img>
+        <img2>bumrah1.jpg</img2>
+        <insta>https://www.instagram.com/jaspritb1/</insta>
+        <twitter>https://twitter.com/Jaspritbumrah93</twitter>
+        <internationaldebut>23 January 2016</internationaldebut>
+        <style>Right Hand Bat /
+Right Arm Fast</style>
+        
+        <info>Jasprit Jasbirsingh Bumrah (born 6 December 1993) is an Indian international cricketer who plays for the Indian national cricket team in all formats of the game. A right-arm fast bowler with a unique bowling action, Bumrah is considered one of the best fast bowlers in the world. He plays for Gujarat cricket team and Mumbai Indians in first-class cricket and Indian Premier League respectively.
+            .He made his international debut in January 2016 and quickly established himself as a key player in the Indian team. He has been consistently ranked among the top bowlers in the ICC Player Rankings for ODI and T20I bowlers. He is known for his ability to take wickets in the death overs, and has been instrumental in India's success in limited-overs cricket in recent years. He has several records to his name including the fastest Indian bowler to 50 and 100 wickets in ODIs and the fastest Indian to reach 50 wickets in T20Is.</info>
+        <web>https://en.wikipedia.org/wiki/Jasprit_Bumrah</web>
+    </player>
+    <player>
+        <name>Ravindra Jadeja</name>
+        <age>32 years</age>
+        <playingstyle>All-Rounder</playingstyle>
+        <img>ravindrajadeja.jpg</img>
+        <img2>ravindra2.jpeg</img2>
+        <insta>https://www.instagram.com/ravindra.jadeja</insta>
+        <twitter>https://twitter.com/imjadeja</twitter>
+        <internationaldebut>8 February 2009</internationaldebut>
+        <style>Left Hand Bat /
+    Left Arm Orthodox</style>
+        <info>Ravindra Jadeja is an Indian International cricketer who plays for the Indian cricket team. He plays for Chennai Super Kings in the Indian Premier League and Saurashtra in the domestic cricket. He is an all-rounder who bats left-handed and bowls slow left-arm orthodox. He made his international debut for India in February 2009.</info>
+        <web>https://en.wikipedia.org/wiki/Ravindra_Jadeja</web>
+    </player>
+    <player>
+        <name>Mohammad Shami</name>
+        <age>31 years</age>
+        <playingstyle>Bowler</playingstyle>
+        <img>shami.jpeg</img>
+        <img2>shami4k.jpg</img2>
+        <insta>https://www.instagram.com/mdshami.11/</insta>
+        <twitter>https://twitter.com/mdshami11</twitter>
+        <internationaldebut>6 November 2013</internationaldebut>
+        <style>Right Arm Fast-Medium</style>
+        <info>Mohammad Shami is an Indian International cricketer who plays for the Indian cricket team. He plays for Punjab Kings in the Indian Premier League and Bengal in the domestic cricket. He is a fast-medium bowler who bowls with his right hand. He made his international debut for India in November 2013.</info>
+        <web>https://en.wikipedia.org/wiki/Mohammed_Shami</web>
+    </player>
+    <player>
+        <name>Kuldeep Yadav</name>
+        <age>26 years</age>
+        <playingstyle>Bowler</playingstyle>
+        <img>kuldeep.jpeg</img>
+        <img2>kuldeep4k.jpg</img2>
+        <insta>https://www.instagram.com/kuldeep_18/</insta>
+        <twitter>https://twitter.com/imkuldeep18</twitter>
+        <internationaldebut>26 June 2017</internationaldebut>
+        <style>Left Arm Chinaman</style>
+        <info>Kuldeep Yadav is an Indian International cricketer who plays for the Indian cricket team. He plays for Kolkata Knight Riders in the Indian Premier League and Uttar Pradesh in the domestic cricket. He is a left-arm chinaman bowler who bowls with his left hand. He made his international debut for India in June 2017.</info>
+        <web>https://en.wikipedia.org/wiki/Kuldeep_Yadav</web>
+    </player>
+    <player>
+        <name>Mayank Agarwal</name>
+        <age>31 years</age>
+        <playingstyle>Batsman</playingstyle>
+        <img>mayank.jpeg</img>
+        <img2>mayank4k.jpeg</img2>
+        <insta>https://www.instagram.com/mayankagarawal/</insta>
+        <twitter>https://twitter.com/mayankcricket</twitter>
+        <internationaldebut>26 December 2018</internationaldebut>
+        <style>Right Hand Bat</style>
+        <info>Mayank Agarwal is an Indian International cricketer who plays for the Indian cricket team. He plays for Punjab Kings in the Indian Premier League and Karnataka in the domestic cricket. He is a right-handed opening batsman. He made his international debut for India in December 2018.</info>
+        <web>https://en.wikipedia.org/wiki/Mayank_Agarwal</web>
+    </player>
+
+
+
+    
+</players>
